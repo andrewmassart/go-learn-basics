@@ -14,6 +14,7 @@ learned, written from recall after study.
 | 05 | [pointers](examples/c05-pointers) | Pointers, address-of, dereference, nil zero value |
 | 06 | [errors](examples/c06-errors) | Errors, wrapping, errors.Is, defer |
 | 07 | [closures](examples/c07-closures) | Anonymous functions, closures, variadics |
+| 08 | [structs](examples/c08-structs) | Structs, methods, interfaces, embedding |
 
 Run any of them from the repo root:
 
