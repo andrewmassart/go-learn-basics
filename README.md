@@ -15,6 +15,11 @@ Run any of them from the repo root:
 go run ./examples/c01-hello
 ```
 
+```sh
+go run ./examples/c01-variables
+```
+
+
 The only prerequisite is a [Go install](https://go.dev/doc/install).
 
 ## Layout
