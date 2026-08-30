@@ -8,17 +8,14 @@ learned, written from recall after study.
 | # | Example | Demonstrates |
 |--:|---------|--------------|
 | 01 | [hello](examples/c01-hello) | Toolchain proof: package main, imports, Println |
+| 02 | [variables](examples/c02-variables) | var and :=, zero values, type conversion, untyped constants |
+| 03 | [containers](examples/c03-containers) | Slices, maps, missing keys, range, slice aliasing |
 
 Run any of them from the repo root:
 
 ```sh
 go run ./examples/c01-hello
 ```
-
-```sh
-go run ./examples/c01-variables
-```
-
 
 The only prerequisite is a [Go install](https://go.dev/doc/install).
 
