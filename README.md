@@ -10,6 +10,8 @@ learned, written from recall after study.
 | 01 | [hello](examples/c01-hello) | Toolchain proof: package main, imports, Println |
 | 02 | [variables](examples/c02-variables) | var and :=, zero values, type conversion, untyped constants |
 | 03 | [containers](examples/c03-containers) | Slices, maps, missing keys, range, slice aliasing |
+| 04 | [functions](examples/c04-functions) | Functions, multiple returns, blank identifier, if/for/switch |
+| 05 | [pointers](examples/c05-pointers) | Pointers, address-of, dereference, nil zero value |
 
 Run any of them from the repo root:
 
