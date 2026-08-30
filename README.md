@@ -16,6 +16,7 @@ learned, written from recall after study.
 | 07 | [closures](examples/c07-closures) | Anonymous functions, closures, variadics |
 | 08 | [structs](examples/c08-structs) | Structs, methods, interfaces, embedding |
 | 09 | [generics](examples/c09-generics) | Generic types, comparable and any, table-driven tests |
+| 10 | [concurrency](examples/c10-concurrency) | Goroutines, channels, select, timeouts |
 
 Run any of them from the repo root:
 
